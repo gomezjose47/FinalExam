@@ -14,3 +14,31 @@ Number of grades: 24
 Average grade: 83.25
 Percentage of grades above average: 54.17 
 """
+
+
+"""
+main ():
+  set grades = input
+  calculate average = Cal_ave
+  calculate above average grades = above_ave
+
+grades():
+open (finals.txt)
+set finals equal to integers
+close finals.txt
+print "There are", grade, "in this class"
+
+cal_ave():
+add together all grades = sum1
+average = sum1/grade
+
+above_ave():
+if grade > ave_grade
+count
+if not
+do not ocunt
+count all grades above ave_grade
+above_ave = amount of above_ave_grade/ave_grades * 100
+
+main()
+"""
