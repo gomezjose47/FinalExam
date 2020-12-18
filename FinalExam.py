@@ -42,3 +42,23 @@ above_ave = amount of above_ave_grade/ave_grades * 100
 
 main()
 """
+
+def main():
+
+def AmtofGrades():
+  infile = open (final.txt, "r")
+  grades = line.rstrip() for line in infile
+  for i in range (len(grades)):
+  print ("The number of grades is:" AmtofGrades)
+
+def calculate_percentage_above_grades():
+  percentAboveAverage = countif grades > ave_grade
+    percentAboveAverage/ AmtofGrades * 100
+    print ("The percentage of the grades that were above average is:", calculate_percentage_above_grades)
+
+
+def averageGrade():
+ave_grade = sum (final.txt) / AmtofGrades
+  print ("The average grade in the class is:" averageGrade
+
+main()
